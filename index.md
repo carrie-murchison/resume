@@ -1,6 +1,6 @@
-### Kirstin Ditata
-:octocat:	Full Stack Web Developer :octocat:
-##
+## Kirstin Ditata
+Full Stack Web Developer
+
 
 ## ☎️ Contact Information ☎️
 - (405) 600-4514
