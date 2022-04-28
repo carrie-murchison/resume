@@ -1,6 +1,6 @@
 ### Kirstin Ditata    
-### *Fullstack web developer*
-##
+### <center>*Fullstack web developer*</center>
+
 
 ## ☎ Contact Information 
 🔹 (405) 600-4514  
