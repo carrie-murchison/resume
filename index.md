@@ -1,5 +1,5 @@
-# Kirstin Ditata
-:octocat:	 Full Stack Web Developer  :octocat:
+## Kirstin Ditata
+:octocat:	Full Stack Web Developer :octocat:
 
 ## ☎️ Contact Information ☎️
 - (405) 600-4514
@@ -26,5 +26,7 @@ Associate in Applied Science/ Radiologic Technology
 
 ## 💼 Experience 💼
 
-
+#### Empire Auto
+- Manage complex scheduling and maintainance system to accurately track the movement of over 60 automobiles daily
+- 
 
