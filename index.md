@@ -16,7 +16,6 @@ Full stack Mern Development
 - Planned and developed web pages and applications 
 - Developed proficiency with code editors, version control, and command line operations
 
-##
 
 #### [East Arkansas Community College](https://www.eacc.edu/) | 2016
 Associate in Applied Science/ Radiologic Technology
