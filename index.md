@@ -1,5 +1,6 @@
-### Kirstin Ditata    
-### <center>*Fullstack web developer*</center>
+
+### <center>Kirstin Ditata    
+  *Fullstack web developer*</center>
 
 
 ## ☎ Contact Information 
