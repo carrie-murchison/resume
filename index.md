@@ -1,15 +1,15 @@
-### Kirstin Ditata    
+# Kirstin Ditata    
 *Fullstack web developer*
 - 
 
-# ☎️ Contact Information 
+## ☎ Contact Information 
 🔹 (405) 600-4514  
 🔹 Oklahoma City, Ok  
 🔹 ditatakirstin@gmail.com  
 🔹 [LinkedIn]()  
 🔹 [GitHUb]()
 
-# 📓 Education 
+## 📓 Education 
 
 ##### [The Last Mile](https://www.thelastmile.org) | 2019 - 2022   
 *Full stack Mern Development*    
@@ -24,7 +24,7 @@
 🔹 Specifications for exposure time and distance  
 🔹 Key commands to specify scan sequences and adjust transmitters and receivers
 
-# 💼 Experience 
+## 💼 Experience 
 
 #### Empire Auto    
 🔹 Manage complex scheduling and maintainance system to accurately track the movement of over 60 automobiles daily
