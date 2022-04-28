@@ -1,5 +1,5 @@
 
-### <center>Kirstin Ditata    
+### <center> Kirstin Ditata    
   *Fullstack web developer*</center>
 
 
