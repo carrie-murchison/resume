@@ -1,4 +1,4 @@
-## Kirstin Ditata
+# Kirstin Ditata
 :octocat:	 Full Stack Web Developer  :octocat:	
 
 ## ☎️ Contact Information ☎️
