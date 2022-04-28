@@ -2,14 +2,14 @@
 <center> Fullstack web developer </center>    
  
 
-## ☎ Contact Information 
+## 📞 Contact Information 📞
 🔹 (405) 600-4514  
 🔹 Oklahoma City, Ok  
 🔹 ditatakirstin@gmail.com  
 🔹 [LinkedIn]()  
 🔹 [GitHUb]()
 
-## 📓 Education 
+## 📓 Education 📓  
 
 ##### [The Last Mile](https://www.thelastmile.org) | 2019 - 2022   
 *Full stack Mern Development*    
@@ -18,15 +18,15 @@
 🔹 Developed proficiency with code editors, version control, and command line operations
 
 
-#### [East Arkansas Community College](https://www.eacc.edu/) | 2016
+##### [East Arkansas Community College](https://www.eacc.edu/) | 2016
 *Associate in Applied Science/ Radiologic Technology*  
 🔹 Review and evaluate developed x-rays for diagnostic purposes  
 🔹 Specifications for exposure time and distance  
 🔹 Key commands to specify scan sequences and adjust transmitters and receivers
 
-## 💼 Experience 
+## 💼 Experience 💼  
 
-#### Empire Auto    
+##### Empire Auto    
 🔹 Manage complex scheduling and maintainance system to accurately track the movement of over 60 automobiles daily
 
 
